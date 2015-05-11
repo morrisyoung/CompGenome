@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  10 MAY 2015 22:26
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  11 MAY 2015 14:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -389,34 +389,49 @@ Underfull \hbox (badness 10000) detected at line 29
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <8> not available
 (Font)              Font shape `OT1/phv/b/n' tried instead on input line 33.
 
-Underfull \hbox (badness 1281) in paragraph at lines 33--35
-\OT1/phv/b/n/8 Motivation: \OT1/phv/m/n/8 With the fast development of genome s
-equencing
+Underfull \hbox (badness 4454) in paragraph at lines 33--35
+\OT1/phv/b/n/8 Motivation: \OT1/phv/m/n/8 With the fast development of DNA sequ
+encing
+ []
+
+
+Underfull \hbox (badness 1466) in paragraph at lines 33--35
+\OT1/phv/m/n/8 explain the data are very difficult to develop even with much
+ []
+
+
+Underfull \hbox (badness 1742) in paragraph at lines 36--38
+\OT1/phv/m/n/8 natural to be used in haplotype imputation, characterizes the
+ []
+
+
+Underfull \hbox (badness 1540) in paragraph at lines 36--38
+\OT1/phv/m/n/8 chromosome recombination process. What's more, our project
  []
 
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <10> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 53.
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 50.
 
-Underfull \hbox (badness 1394) in paragraph at lines 55--56
-\OT1/ptm/m/n/9 genetic data is too complicated to simplify via mathematical
+Underfull \hbox (badness 1221) in paragraph at lines 52--53
+\OT1/ptm/m/n/9 genetic phenomena sometimes are possible be described with
  []
 
 
-Underfull \hbox (badness 2005) in paragraph at lines 68--69
-\OT1/ptm/m/n/9 population size model, and the bottleneck population model
+Underfull \hbox (badness 1609) in paragraph at lines 56--57
+\OT1/ptm/m/n/9 efficiency especially for very complicated models. Also, the
  []
 
 
-Underfull \hbox (badness 1215) in paragraph at lines 68--69
-\OT1/ptm/m/n/9 bottleneck model, it's said to be consistent with what really
+Underfull \hbox (badness 3118) in paragraph at lines 66--67
+\OT1/ptm/m/n/9 population size model and the bottleneck population model
  []
 
-LaTeX Font Info:    Try loading font information for OMS+phv on input line 69.
+LaTeX Font Info:    Try loading font information for OMS+phv on input line 67.
 (/usr/local/texlive/2013/texmf-dist/tex/latex/psnfss/omsphv.fd
 File: omsphv.fd 
 )
 LaTeX Font Info:    Font shape `OMS/phv/m/n' in size <7> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 69.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 67.
  [1
 
 {/usr/local/texlive/2013/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
@@ -426,25 +441,19 @@ LaTeX Font Info:    Font shape `OMS/phv/m/n' in size <7> not available
 <model.png, id=17, 747.29187pt x 306.64563pt>
 File: model.png Graphic file (type png)
  <use model.png>
-Package pdftex.def Info: model.png used on input line 81.
+Package pdftex.def Info: model.png used on input line 79.
 (pdftex.def)             Requested size: 239.99348pt x 100.00021pt.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 82.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 80.
 
 <NewStats.png, id=19, 318.69063pt x 278.03876pt>
 File: NewStats.png Graphic file (type png)
  <use NewStats.png>
-Package pdftex.def Info: NewStats.png used on input line 88.
+Package pdftex.def Info: NewStats.png used on input line 87.
 (pdftex.def)             Requested size: 159.99652pt x 140.0033pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-Underfull \hbox (badness 3977) in paragraph at lines 100--101
-\OT1/ptm/m/n/8 We will use \OT1/ptm/m/it/8 fastsimcoal2 \OT1/ptm/m/n/8 Excoffie
-r \OT1/ptm/m/it/8 et al. \OT1/ptm/m/n/8 (2013) to simulate the
- []
 
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 105.
@@ -462,9 +471,9 @@ ize
  []
 
 LaTeX Font Info:    Font shape `OT1/phv/bx/it' in size <8> not available
-(Font)              Font shape `OT1/phv/b/it' tried instead on input line 151.
+(Font)              Font shape `OT1/phv/b/it' tried instead on input line 148.
 LaTeX Font Info:    Font shape `OT1/phv/b/it' in size <8> not available
-(Font)              Font shape `OT1/phv/b/sl' tried instead on input line 151.
+(Font)              Font shape `OT1/phv/b/sl' tried instead on input line 148.
 
 Overfull \hbox (261.0pt too wide) has occurred while \output is active
 [][] 
@@ -482,12 +491,12 @@ Overfull \hbox (261.0pt too wide) has occurred while \output is active
 File: dis_N.png Graphic file (type png)
 
 <use dis_N.png>
-Package pdftex.def Info: dis_N.png used on input line 165.
+Package pdftex.def Info: dis_N.png used on input line 166.
 (pdftex.def)             Requested size: 289.99893pt x 200.00107pt.
  <like_N.png, id=32, 578.16pt x 433.62pt>
 File: like_N.png Graphic file (type png)
  <use like_N.png>
-Package pdftex.def Info: like_N.png used on input line 170.
+Package pdftex.def Info: like_N.png used on input line 171.
 (pdftex.def)             Requested size: 279.99263pt x 200.00356pt.
 
 
@@ -496,7 +505,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 <like_NA.jpg, id=33, 803.0pt x 602.25pt>
 File: like_NA.jpg Graphic file (type jpg)
  <use like_NA.jpg>
-Package pdftex.def Info: like_NA.jpg used on input line 182.
+Package pdftex.def Info: like_NA.jpg used on input line 184.
 (pdftex.def)             Requested size: 280.00047pt x 200.00208pt.
 
 
@@ -505,7 +514,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 <like_NC.jpg, id=34, 803.0pt x 602.25pt>
 File: like_NC.jpg Graphic file (type jpg)
  <use like_NC.jpg>
-Package pdftex.def Info: like_NC.jpg used on input line 187.
+Package pdftex.def Info: like_NC.jpg used on input line 189.
 (pdftex.def)             Requested size: 280.00047pt x 200.00208pt.
 
 
@@ -514,7 +523,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 <like_TB.jpg, id=35, 803.0pt x 602.25pt>
 File: like_TB.jpg Graphic file (type jpg)
  <use like_TB.jpg>
-Package pdftex.def Info: like_TB.jpg used on input line 194.
+Package pdftex.def Info: like_TB.jpg used on input line 196.
 (pdftex.def)             Requested size: 280.00047pt x 200.00208pt.
 
 
@@ -523,7 +532,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 <like_NBTB.jpg, id=36, 1292.83pt x 716.6775pt>
 File: like_NBTB.jpg Graphic file (type jpg)
  <use like_NBTB.jpg>
-Package pdftex.def Info: like_NBTB.jpg used on input line 201.
+Package pdftex.def Info: like_NBTB.jpg used on input line 203.
 (pdftex.def)             Requested size: 269.98334pt x 149.99274pt.
 
 
@@ -532,7 +541,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 <like_TBT.jpg, id=37, 1253.68375pt x 605.26125pt>
 File: like_TBT.jpg Graphic file (type jpg)
  <use like_TBT.jpg>
-Package pdftex.def Info: like_TBT.jpg used on input line 206.
+Package pdftex.def Info: like_TBT.jpg used on input line 208.
 (pdftex.def)             Requested size: 269.99586pt x 149.99425pt.
 
 
@@ -551,20 +560,16 @@ Overfull \vbox (1.0pt too high) has occurred while \output is active []
 File: like_NBT.jpg Graphic file (type jpg)
 
 <use like_NBT.jpg>
-Package pdftex.def Info: like_NBT.jpg used on input line 213.
+Package pdftex.def Info: like_NBT.jpg used on input line 215.
 (pdftex.def)             Requested size: 270.00133pt x 149.99701pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
 <like_NBTBT5_2.png, id=45, 1152.7065pt x 600.5637pt>
 File: like_NBTBT5_2.png Graphic file (type png)
  <use like_NBTBT5_2.png>
-Package pdftex.def Info: like_NBTBT5_2.png used on input line 225.
+Package pdftex.def Info: like_NBTBT5_2.png used on input line 227.
 (pdftex.def)             Requested size: 269.98903pt x 150.0031pt.
 
 
@@ -574,14 +579,11 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 File: like_NBTBT20_2.jpg Graphic file (type jpg)
 
 <use like_NBTBT20_2.jpg>
-Package pdftex.def Info: like_NBTBT20_2.jpg used on input line 230.
+Package pdftex.def Info: like_NBTBT20_2.jpg used on input line 232.
 (pdftex.def)             Requested size: 269.98903pt x 149.99554pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Overfull \hbox (261.0pt too wide) has occurred while \output is active
@@ -600,7 +602,7 @@ Overfull \hbox (261.0pt too wide) has occurred while \output is active
 <like_com_NA.jpg, id=50, 2080.77374pt x 1148.29pt>
 File: like_com_NA.jpg Graphic file (type jpg)
  <use like_com_NA.jpg>
-Package pdftex.def Info: like_com_NA.jpg used on input line 242.
+Package pdftex.def Info: like_com_NA.jpg used on input line 245.
 (pdftex.def)             Requested size: 279.97159pt x 169.99332pt.
 
 
@@ -609,15 +611,15 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 <like_com_NC.jpg, id=51, 2101.8525pt x 1148.29pt>
 File: like_com_NC.jpg Graphic file (type jpg)
  <use like_com_NC.jpg>
-Package pdftex.def Info: like_com_NC.jpg used on input line 247.
+Package pdftex.def Info: like_com_NC.jpg used on input line 250.
 (pdftex.def)             Requested size: 279.98546pt x 169.99332pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-Underfull \hbox (badness 1769) in paragraph at lines 256--257
-\OT1/ptm/m/n/9 The new statistic actually doesn't flash out in the inference
+Underfull \hbox (badness 1603) in paragraph at lines 258--259
+\OT1/ptm/m/n/9 The new statistic actually doesn't flash out in our inference
  []
 
 
@@ -636,10 +638,12 @@ pg>]
 <TNBTB_old.jpg, id=56, 1932.21875pt x 1676.2625pt>
 File: TNBTB_old.jpg Graphic file (type jpg)
  <use TNBTB_old.jpg>
-Package pdftex.def Info: TNBTB_old.jpg used on input line 273.
+Package pdftex.def Info: TNBTB_old.jpg used on input line 275.
 (pdftex.def)             Requested size: 249.98843pt x 209.99269pt.
 
-(./document.bbl
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
 Overfull \hbox (261.0pt too wide) has occurred while \output is active
 [][] 
  []
@@ -652,20 +656,22 @@ Overfull \hbox (261.0pt too wide) has occurred while \output is active
 [][] 
  []
 
-[6 <./like_com_NA.jpg> <./like_com_NC.jpg> <./TNBTB_old.jpg>]
+[6 <./like_com_NA.jpg> <./like_com_NC.jpg> <./TNBTB_old.jpg>] (./document.bbl
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 16.
 Missing character: There is no á in font ptmr7t!
 )
-Extra height:10.0pt when 120.75772pt
-Extra height:10.0pt when 121.75772pt
-Extra height:0.0pt when 122.75772pt
-(2)Left:122.75772pt Right:120.51544pt Output:122.75772pt
+Extra height:10.0pt when 152.75772pt
+Extra height:10.0pt when 153.75772pt
+Extra height:10.0pt when 154.75772pt
+Extra height:10.0pt when 155.75772pt
+Extra height:0.0pt when 156.75772pt
+(2)Left:156.75772pt Right:156.51544pt Output:156.75772pt
 - LAST -
 Extra skip:0.0pt
-Left:122.75772pt
-Right:120.51544pt
-Output:122.75772pt
+Left:156.75772pt
+Right:156.51544pt
+Output:156.75772pt
 
 Overfull \hbox (261.0pt too wide) has occurred while \output is active
 [][] 
@@ -684,13 +690,13 @@ LaTeX Font Warning: Size substitutions with differences
 
  ) 
 Here is how much of TeX's memory you used:
- 3648 strings out of 493315
- 46553 string characters out of 6137904
- 118792 words of memory out of 5000000
- 6961 multiletter control sequences out of 15000+600000
+ 3649 strings out of 493315
+ 46571 string characters out of 6137904
+ 117792 words of memory out of 5000000
+ 6962 multiletter control sequences out of 15000+600000
  59187 words of font info for 116 fonts, out of 8000000 for 9000
  961 hyphenation exceptions out of 8191
- 38i,11n,28p,1044b,457s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 38i,11n,28p,1098b,457s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2013/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
 exlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/tex
 live/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texli
@@ -709,7 +715,7 @@ ic/uhvr8a.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/urw/helvetic/uhvr
 o8a.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></
 usr/local/texlive/2013/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/
 texlive/2013/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on document.pdf (7 pages, 3043312 bytes).
+Output written on document.pdf (7 pages, 3044191 bytes).
 PDF statistics:
  122 PDF objects out of 1000 (max. 8388607)
  74 compressed objects within 1 object stream
