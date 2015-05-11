@@ -11,3 +11,5 @@ The "cohort-sharin_..." and "combined_..." are the codes used to do the simulati
 The "data..." files are the simulated statistics generaged from above simulations. This will be used as the input files for plotting. (raw experimental data).
 
 The "plot_..." are the codes used for visualize the raw data. These codes can be run in this directory if "numpy", "matplotlib" and "mpl_toolkits" package are installed in the testing system. (visualized experimental data)
+
+The "report" directory contains all the tex files we used to create the final report of this project.
