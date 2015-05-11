@@ -1,0 +1,13 @@
+This is the working bench for testing (evaluating) cohort-sharing statistic used in demographic inference framework.
+
+We will check it's feasibility in demographic inference.
+
+We will test constant population size model (N), and the bottleneck model (NA, NC, NB, T, TB).
+
+We will draw their likelihood surface, and also practically estimate these parameters. (only drawed the likelihood surface)
+
+The "cohort-sharin_..." and "combined_..." are the codes used to do the simulations and extract the statistics under different population parameters. They need the "fastsimcoal2" and "IBDDetection" programs (not attached in this repository), and we ran this script with those programs in a Ubuntu-12.04 workstation.
+
+The "data..." files are the simulated statistics generaged from above simulations. This will be used as the input files for plotting. (raw experimental data).
+
+The "plot_..." are the codes used for visualize the raw data. These codes can be run in this directory if "numpy", "matplotlib" and "mpl_toolkits" package are installed in the testing system. (visualized experimental data)

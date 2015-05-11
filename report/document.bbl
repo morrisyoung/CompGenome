@@ -1,0 +1,44 @@
+\begin{thebibliography}{}
+
+\bibitem[Carmi {\em et~al.}(2014)Carmi, Hui, Kochav, Liu, Xue, Grady, Guha,
+  Upadhyay, Ben-Avraham, Mukherjee, Bowen, Thomas, Vijai, Cruts, Froyen,
+  Lambrechts, Plaisance, Van~Broeckhoven, Van~Damme, Van~Marck, Barzilai,
+  Darvasi, Offit, Bressman, Ozelius, Peter, Cho, Ostrer, Atzmon, Clark, Lencz,
+  and Pe'er]{Carmi2014}
+Carmi, S., Hui, K.~Y., Kochav, E., Liu, X., Xue, J., Grady, F., Guha, S.,
+  Upadhyay, K., Ben-Avraham, D., Mukherjee, S., Bowen, B.~M., Thomas, T.,
+  Vijai, J., Cruts, M., Froyen, G., Lambrechts, D., Plaisance, S.,
+  Van~Broeckhoven, C., Van~Damme, P., Van~Marck, H., Barzilai, N., Darvasi, A.,
+  Offit, K., Bressman, S., Ozelius, L.~J., Peter, I., Cho, J.~H., Ostrer, H.,
+  Atzmon, G., Clark, L.~N., Lencz, T., and Pe'er, I. (2014).
+\newblock Sequencing an ashkenazi reference panel supports population-targeted
+  personal genomics and illuminates jewish and european origins.
+\newblock {\em Nat Commun\/}, {\bf 5}.
+
+\bibitem[Excoffier {\em et~al.}(2013)Excoffier, Dupanloup, Huerta-Sánchez,
+  Sousa, and Foll]{Excoffier2013}
+Excoffier, L., Dupanloup, I., Huerta-Sánchez, E., Sousa, V.~C., and Foll, M.
+  (2013).
+\newblock Robust demographic inference from genomic and snp data.
+\newblock {\em PLoS Genet\/}, {\bf 9}(10), e1003905.
+
+\bibitem[Marjoram and Wall(2006)Marjoram and Wall]{Marjoram2006}
+Marjoram, P. and Wall, J.~D. (2006).
+\newblock Fast ``coalescent'' simulation.
+\newblock {\em BMC Genet\/}, {\bf 7}, 16--16.
+
+\bibitem[McVean and Cardin(2005)McVean and Cardin]{McVean2005}
+McVean, G.~A. and Cardin, N.~J. (2005).
+\newblock Approximating the coalescent with recombination.
+\newblock {\em Philosophical Transactions of the Royal Society B: Biological
+  Sciences\/}, {\bf 360}(1459), 1387--1393.
+
+\bibitem[Yang {\em et~al.}(2015)Yang, Carmi, and Pe'er]{Yang2015}
+Yang, S., Carmi, S., and Pe'er, I. (2015).
+\newblock Rapidly registering identity-by-descent across ancestral
+  recombination graphs.
+\newblock In {\em Research in Computational Molecular Biology - 19th Annual
+  International Conference, {RECOMB} 2015, Warsaw, Poland, April 12-15, 2015,
+  Proceedings\/}, pages 340--353.
+
+\end{thebibliography}
